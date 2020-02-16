@@ -1,0 +1,6 @@
+{
+  "name": "Google/G Suite Service for Boomi Flow",
+  "description": "A service for Boomi Flow that allows your flows to use Google/G Suite as an identity provider",
+  "repository": "https://github.com/jonjomckay/service-gsuite",
+  "keywords": ["manywho", "boomi", "flow", "boomi flow", "google", "gsuite", "authentication", "plugin", "workflow"]
+}
