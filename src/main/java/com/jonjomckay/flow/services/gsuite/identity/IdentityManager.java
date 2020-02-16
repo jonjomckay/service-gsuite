@@ -1,6 +1,6 @@
-package com.boomi.flow.services.gsuite.identity;
+package com.jonjomckay.flow.services.gsuite.identity;
 
-import com.boomi.flow.services.gsuite.ApplicationConfiguration;
+import com.jonjomckay.flow.services.gsuite.ApplicationConfiguration;
 import com.google.api.client.auth.oauth2.TokenResponse;
 import com.google.api.client.auth.oauth2.TokenResponseException;
 import com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow;

@@ -1,6 +1,6 @@
-package com.boomi.flow.services.gsuite.identity;
+package com.jonjomckay.flow.services.gsuite.identity;
 
-import com.boomi.flow.services.gsuite.ApplicationConfiguration;
+import com.jonjomckay.flow.services.gsuite.ApplicationConfiguration;
 import com.manywho.sdk.api.run.elements.type.ObjectDataRequest;
 import com.manywho.sdk.api.run.elements.type.ObjectDataResponse;
 import com.manywho.sdk.api.security.AuthenticatedWho;

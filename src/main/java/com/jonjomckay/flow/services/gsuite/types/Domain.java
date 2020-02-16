@@ -1,4 +1,4 @@
-package com.boomi.flow.services.gsuite.types;
+package com.jonjomckay.flow.services.gsuite.types;
 
 import com.manywho.sdk.api.ContentType;
 import com.manywho.sdk.services.types.Type;

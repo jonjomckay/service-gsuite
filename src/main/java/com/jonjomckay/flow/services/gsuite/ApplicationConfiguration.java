@@ -1,8 +1,8 @@
-package com.boomi.flow.services.gsuite;
+package com.jonjomckay.flow.services.gsuite;
 
 import com.manywho.sdk.api.ContentType;
 import com.manywho.sdk.services.configuration.Configuration;
-import com.boomi.flow.services.gsuite.types.Domain;
+import com.jonjomckay.flow.services.gsuite.types.Domain;
 
 import java.util.ArrayList;
 import java.util.List;
